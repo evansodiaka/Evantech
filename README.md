@@ -1,6 +1,6 @@
 - full name: Evans Odiaka
 - University of Manitoba graduate in Computer Science. 
-- Currently interested in web development(full stack development).   
+- Currently interested in web development and mobile development (full stack development).   
 - Feel free to contact me at evansodiaka@gmail.com
 - Feel free to see my visual portfolio evansodiaka.com
 
